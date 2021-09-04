@@ -30,18 +30,18 @@ preferred-citation:
   address: "New York, New York, USA"
   booktitle: "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering - ESEC/FSE 2018"
   doi: "10.1145/3236024.3264598"
-  isbn: 9781450355735
+  isbn: "9781450355735"
   keywords:
-    - 2018
-    - acm reference format
-    - and alberto bacchelli
-    - davide spadini
-    - git
-    - gitpython
-    - maurício aniche
-    - mining software repositories
-    - pydriller
-    - python
+    - "2018"
+    - "acm reference format"
+    - "and alberto bacchelli"
+    - "davide spadini"
+    - "git"
+    - "gitpython"
+    - "maurício aniche"
+    - "mining software repositories"
+    - "pydriller"
+    - "python"
   start: 908 # First page number
   end: 911 # Last page number
   publisher = "ACM Press"

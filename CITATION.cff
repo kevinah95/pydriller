@@ -44,7 +44,7 @@ preferred-citation:
     - "python"
   start: 908 # First page number
   end: 911 # Last page number
-  publisher = "ACM Press"
+  publisher: "ACM Press"
   title: "PyDriller: Python framework for mining software repositories"
-  url = http://dl.acm.org/citation.cfm?doid=3236024.3264598
+  url: http://dl.acm.org/citation.cfm?doid=3236024.3264598
   year: 2018

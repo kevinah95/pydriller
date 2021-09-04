@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Spadini"
+  given-names: "Davide"
+  orcid: "https://orcid.org/0000-0003-2997-1890"
+- family-names: "Aniche"
+  given-names: "Maurício"
+  orcid: "https://orcid.org/0000-0002-8893-2835"
+- family-names: "Bacchelli"
+  given-names: "Alberto"
+  orcid: "https://orcid.org/0000-0003-0193-6823"
+title: "PyDriller"
+version: 2.0
+doi: 10.5281/zenodo.1327411
+date-released: 2018-08-03
+url: "https://github.com/ishepard/pydriller"
+preferred-citation:
+  type: inproceedings
+  authors:
+  - family-names: "Spadini"
+    given-names: "Davide"
+    orcid: "https://orcid.org/0000-0003-2997-1890"
+  - family-names: "Aniche"
+    given-names: "Maurício"
+    orcid: "https://orcid.org/0000-0002-8893-2835"
+  - family-names: "Bacchelli"
+    given-names: "Alberto"
+    orcid: "https://orcid.org/0000-0003-0193-6823"
+  address: "New York, New York, USA"
+  booktitle: "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering - ESEC/FSE 2018"
+  doi: "10.1145/3236024.3264598"
+  isbn: 9781450355735
+  keywords:
+    - 2018
+    - acm reference format
+    - and alberto bacchelli
+    - davide spadini
+    - git
+    - gitpython
+    - maurício aniche
+    - mining software repositories
+    - pydriller
+    - python
+  start: 908 # First page number
+  end: 911 # Last page number
+  publisher = "ACM Press"
+  title: "PyDriller: Python framework for mining software repositories"
+  url = http://dl.acm.org/citation.cfm?doid=3236024.3264598
+  year: 2018
